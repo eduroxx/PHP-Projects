@@ -1,4 +1,5 @@
 <h1>Basic Layout</h1> 
+<img src = "TimeTableCraft/Screenshots/Screenshot (19).png"></img>
 <img src="./TimeTableCraft/Screenshots/Screenshot (19).png"></img>
 
 <h2>Add user input - 1</h2> 
