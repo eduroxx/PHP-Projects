@@ -6,9 +6,9 @@
 <img src="https://github.com/eduroxx/PHP-Projects/blob/main/TimeTableCraft/Screenshots/Screenshot%20(19).png"></img>
 
 <h2>Created first entry in table</h2> 
-![Alt text](./TimeTableCraft/Screenshots/Screenshot(21).png?raw=true "Optional Title")
+
 <img src="./TimeTableCraft/Screenshots/Screenshot(21).png"></img>
-![Alt Text](/TimeTableCraft/Screenshots/Screenshot (19).png)
+
 
 <h2>Updating user input -1 with a Cancel button beside </h2> 
 <img src="./TimeTableCraft/Screenshots/Screenshot (22).png"></img>
