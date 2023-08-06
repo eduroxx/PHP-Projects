@@ -20,10 +20,10 @@
 
 <h2>Created five entries in table</h2> 
 <img src="./TimeTableCraft/Screenshots/Screenshot(27).jpeg"></img>
-<img src="./TimeTableCraft/Screenshots/Screenshot (28).png"></img>
+<img src="./TimeTableCraft/Screenshots/Screenshot(28).jpeg"></img>
 
 <h2>Deleted second entry from table</h2> 
-<img src="./TimeTableCraft/Screenshots/Screenshot (29).png"></img>
+<img src="./TimeTableCraft/Screenshots/Screenshot(29).png"></img>
 
 
 
