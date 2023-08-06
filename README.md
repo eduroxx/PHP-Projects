@@ -19,7 +19,7 @@
 <img src="./TimeTableCraft/Screenshots/Screenshot (26).png"></img>
 
 <h2>Created five entries in table</h2> 
-<img src="./TimeTableCraft/Screenshots/Screenshot (27).png"></img>
+<img src="./TimeTableCraft/Screenshots/Screenshot(27).jpeg"></img>
 <img src="./TimeTableCraft/Screenshots/Screenshot (28).png"></img>
 
 <h2>Deleted second entry from table</h2> 
