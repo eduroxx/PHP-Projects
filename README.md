@@ -1,4 +1,4 @@
-<h3>Basic Layout</h3> 
+<h1>Basic Layout</h1> 
 <img src="./TimeTableCraft/Screenshots/Screenshot (19).png"></img>
 
 <h2>Add user input - 1</h2> 
@@ -26,5 +26,5 @@
 <img src="./TimeTableCraft/Screenshots/Screenshot(29).jpeg"></img>
 
 
-
+<H3>Instructions</H1>
 
